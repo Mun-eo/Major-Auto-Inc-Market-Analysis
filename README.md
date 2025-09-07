@@ -1,4 +1,4 @@
-# Major-Auto-Inc-Market-Analysis
+# Major Auto Inc Market Analysis
 
 <h2>Description</h2>
 
