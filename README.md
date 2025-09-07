@@ -47,7 +47,10 @@ Analysis of car transactions from January 2022 to December 2023 using a visualiz
 
 
 <p align="center">
-  <img width="472" height="603" alt="Revenue Trend Line Chart" src="https://github.com/user-attachments/assets/a690e15d-ed2d-410d-b565-7c4fd0263033" />
+   <img width="1116" height="163" alt="Screenshot 2025-09-07 at 12 57 14 AM" src="https://github.com/user-attachments/assets/a971a32d-5dc2-4714-ad2c-ec910e48da14" />
+
+  <img width="1335" height="863" alt="Screenshot 2025-09-07 at 12 48 23 AM" src="https://github.com/user-attachments/assets/8f8d87ef-d946-4f24-a624-58336208ca5c" />
+
 
  <p align="center">
 Customer Demographics <br/>
@@ -55,7 +58,9 @@ Customer Demographics <br/>
  Analysis of customer demographics from January 2022 to December 2023 reveals 13% earning gap between male and female customers where male customers on the high end with $851,184 and female customers on the low end with $755,973. With males making up 79% of customers while females make up 21%. The income values themselves are higher than what we normally see in real life, but what really matters here is the difference between the groups. This could open more doors to uncover how to increase engagement with female customers.
 
 <p align="center">
-<img width="519" height="646" alt="Products Bar Chart" src="https://github.com/user-attachments/assets/7bf65562-1743-4798-b670-3459cc53eb7a" />
+<img width="1333" height="864" alt="Screenshot 2025-09-07 at 12 53 44 AM" src="https://github.com/user-attachments/assets/fcca35e7-f08d-49f5-b472-c705e5540cc6" /> <img width="1335" height="863" alt="Screenshot 2025-09-07 at 12 49 31 AM" src="https://github.com/user-attachments/assets/8f02e073-76a6-4a7e-979f-adb7e35e1ec6" />
+
+
 
 <p align="center">
 Trends in car purchases <br/>
@@ -64,7 +69,7 @@ Analyzing historical data revealed a pattern in car transactions in the months o
 
 
 <p align="center">
-<img width="549" height="646" alt="Cities Bar Chart" src="https://github.com/user-attachments/assets/41844951-038c-457c-9590-b30da7379996" />
+<img width="1335" height="863" alt="Screenshot 2025-09-07 at 12 48 57 AM" src="https://github.com/user-attachments/assets/6c64d774-87e2-45df-9f48-b62d6f1e33f5" />
 
 <p align="center">
 Car Transactions by Location  <br/>
@@ -73,7 +78,8 @@ When breaking down sales by state, states like Texas, Wisconsin, and Arizona cam
 
 
 <p align="center">
-<img width="549" height="646" alt="Cities Bar Chart" src="https://github.com/user-attachments/assets/41844951-038c-457c-9590-b30da7379996" />
+<img width="1335" height="863" alt="Screenshot 2025-09-07 at 12 49 17 AM" src="https://github.com/user-attachments/assets/91c834ac-0521-4db4-b8c4-f38541ce5e03" />
+
 
 <h2>Reccomendations</h2>  
 
